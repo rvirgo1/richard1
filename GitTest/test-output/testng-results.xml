@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8569" started-at="2018-01-15T21:13:50Z" finished-at="2018-01-15T21:13:59Z">
+  <suite name="Default suite" duration-ms="8677" started-at="2018-01-15T22:25:03Z" finished-at="2018-01-15T22:25:12Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8569" started-at="2018-01-15T21:13:50Z" finished-at="2018-01-15T21:13:59Z">
+    <test name="Default test" duration-ms="8677" started-at="2018-01-15T22:25:03Z" finished-at="2018-01-15T22:25:12Z">
       <class name="rvirgo1.GitTest.AppTest">
-        <test-method status="PASS" signature="guru99tutorial()[pri:0, instance:rvirgo1.GitTest.AppTest@39aeed2f]" name="guru99tutorial" duration-ms="8538" started-at="2018-01-15T14:13:50Z" finished-at="2018-01-15T14:13:59Z">
+        <test-method status="PASS" signature="guru99tutorial()[pri:0, instance:rvirgo1.GitTest.AppTest@3aeaafa6]" name="guru99tutorial" duration-ms="8647" started-at="2018-01-15T15:25:03Z" finished-at="2018-01-15T15:25:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- guru99tutorial -->
       </class> <!-- rvirgo1.GitTest.AppTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
