@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8677" started-at="2018-01-15T22:25:03Z" finished-at="2018-01-15T22:25:12Z">
+  <suite name="Default suite" duration-ms="9095" started-at="2018-01-17T15:45:42Z" finished-at="2018-01-17T15:45:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8677" started-at="2018-01-15T22:25:03Z" finished-at="2018-01-15T22:25:12Z">
+    <test name="Default test" duration-ms="9095" started-at="2018-01-17T15:45:42Z" finished-at="2018-01-17T15:45:51Z">
       <class name="rvirgo1.GitTest.AppTest">
-        <test-method status="PASS" signature="guru99tutorial()[pri:0, instance:rvirgo1.GitTest.AppTest@3aeaafa6]" name="guru99tutorial" duration-ms="8647" started-at="2018-01-15T15:25:03Z" finished-at="2018-01-15T15:25:12Z">
+        <test-method status="PASS" signature="guru99tutorial()[pri:0, instance:rvirgo1.GitTest.AppTest@6093dd95]" name="guru99tutorial" duration-ms="9080" started-at="2018-01-17T08:45:42Z" finished-at="2018-01-17T08:45:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- guru99tutorial -->
